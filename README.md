@@ -19,5 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanyilmaza&" alt="serkanyilmaza" /></p>
 
-<p><img align="center" style="background-color:powderblue src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanyilmaza&show_icons=true&locale=en&layout=compact" alt="serkanyilmaza" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanyilmaza&show_icons=true&locale=en&layout=compact" alt="serkanyilmaza"
+        style="background-color:powderblue; /></p>
 
