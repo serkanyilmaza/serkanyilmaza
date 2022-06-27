@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aserkanyilmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aserkanyilmaz/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanyilmaza&show_icons=true&locale=en&layout=compact" alt="serkanyilmaza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanyilmaza&show_icons=true&locale=en" alt="serkanyilmaza" /></p>
 
